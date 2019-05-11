@@ -50,6 +50,7 @@ cvs.addEventListener("click", function(evt){
             SWOOSHING.play();
             break;
         case state.game:
+            if(bird.y - bird.radius <= 0) return;
             bird.flap();
             FLAP.play();
             break;
