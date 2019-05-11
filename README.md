@@ -13,7 +13,7 @@ This is a beginner's guide on how to create the flappy bird game using JavaScrip
 
 To follow the tutorial step by step, please download the starter template, and then follow this link:
 
-http://youtube.com/**************
+https://youtu.be/0ArCFchlTq4
 
 *************
 Social Media
