@@ -19,5 +19,5 @@ https://youtu.be/0ArCFchlTq4
 Social Media
 *************
 
-Facebook : https://web.facebook.com/codeXplained
+Facebook : https://web.facebook.com/codeeplainedorg
 Twitter : https://twitter.com/code_explained
